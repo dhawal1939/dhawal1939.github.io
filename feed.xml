@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://dhawal1939.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dhawal1939.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-11-29T03:14:10+00:00</updated><id>https://dhawal1939.github.io/feed.xml</id><title type="html">Dhawal Sirikonda</title><subtitle>
+# A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">PC BUILD:4 DIY Upgrades and Suggestions</title><link href="https://dhawal1939.github.io/blog/2020/minor_upgrades/" rel="alternate" type="text/html" title="PC BUILD:4 DIY Upgrades and Suggestions" /><published>2020-09-22T16:40:16+00:00</published><updated>2020-09-22T16:40:16+00:00</updated><id>https://dhawal1939.github.io/blog/2020/minor_upgrades</id><content type="html" xml:base="https://dhawal1939.github.io/blog/2020/minor_upgrades/"><![CDATA[<p>The blog has no value if you are looking for my academic projects it is my experience abouts PC building. Can be useful to make good decisions about your consumer level PC upgrade choices as long as the blog’s hardware stays relavant.
+And also its from a noob so don’t take it for granted always cross verify.</p>
+<h4 id="general-suggestion-always-check-for-thisin-the-order">General suggestion always Check for this(in the order)</h4>
+<ul>
+    <li>Modularity and PSU rating</li>
+    <li>PCI lane capacities</li>
+    <li>Progamability</li>
+    <li>Connectivity</li>
+</ul>
+
+<h3 id="release-of-rtx3000">Release of RTX3000</h3>
+
+<p>When Nvidia CEO Jensen announced, RTX 3000, it was clear that the gaming industry is going through a major shift from raster based graphics to mixed ray tracing and rasterization. The performance uplift was massive almost 1.5-2x over the previous generation flagship 2080Ti but at price half of it.</p>
+
+<h3 id="panic-buying-3080s">Panic buying 3080s</h3>
+
+<p>With new hardware launch and shortage of the GPU due to COVID, getting hold of a 3080 at an un-scalped price was a dream. I panicked and pre-ordered a <code class="language-plaintext highlighter-rouge">MSI Gaming X Trio 3080</code> which was costing around <code class="language-plaintext highlighter-rouge">INR 73K</code>. Since I was staying at home and no expenditure was made,  I stacked up around <code class="language-plaintext highlighter-rouge">50K</code> from the stipend I recieve from the University. Unfortunately, it did not arrive on the promised date, I was worried and pre-ordered another <code class="language-plaintext highlighter-rouge">Nvidia Founder's edition card</code> from the NVIDIA’s official vendor. Luckily it arrived in 2 days.</p>
+
+<p>Now, I had to cancel the <code class="language-plaintext highlighter-rouge">MSI</code> card, but unfortunately it was also shipped and I was having two cards at the same time. Irony here was people all over the world were struggling to get hold of atleast one (even at scalped prices) while I had 2 at hand without over-paying. Once both cards arrived, I had a chance to compare them. Though there was no difference in performance, the difference in the appearance and size of <code class="language-plaintext highlighter-rouge">MSI</code> and <code class="language-plaintext highlighter-rouge">Founders</code> cards was massive.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/3080/msivsfounders/msinormal-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/3080/msivsfounders/msinormal-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/3080/msivsfounders/msinormal-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/3080/msivsfounders/msinormal.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/3080/msivsfounders/fenormal-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/3080/msivsfounders/fenormal-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/3080/msivsfounders/fenormal-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/3080/msivsfounders/fenormal.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/3080/msivsfounders/sidebysidev-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/3080/msivsfounders/sidebysidev-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/3080/msivsfounders/sidebysidev-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/3080/msivsfounders/sidebysidev.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/3080/msivsfounders/sidebysideh-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/3080/msivsfounders/sidebysideh-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/3080/msivsfounders/sidebysideh-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/3080/msivsfounders/sidebysideh.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/3080/msivsfounders/in-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/3080/msivsfounders/in-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/3080/msivsfounders/in-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/3080/msivsfounders/in.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>I decided to keep the <code class="language-plaintext highlighter-rouge">Founders Card</code> as the body was fully made of metal and the <code class="language-plaintext highlighter-rouge">heat dissipation</code> was much more efficient than the other. I sold the <code class="language-plaintext highlighter-rouge">MSI</code> card to another person at the same price I got it for, surprisingly the buyer was ready pay extra, due to the shortage of GPUs.</p>
+
+<p>I also upgraded my <code class="language-plaintext highlighter-rouge">CPU</code> to a <code class="language-plaintext highlighter-rouge">Ryzen 5600X</code> as the <code class="language-plaintext highlighter-rouge">RTX 3080</code> GPU was was throttling due to the performance of <code class="language-plaintext highlighter-rouge">Ryzen 3600</code>.</p>
+
+<h4 id="note-when-changing-a-cpu">Note when changing a CPU!</h4>
+<p><code class="language-plaintext highlighter-rouge">NEVER PULL THE CPU Cooler, instead TWIST gently. PULLING WILL MAKE THE CPU STICK TO THE COOLER.</code>
+This is due to the thermal paste or glue, twisting helps here greatly.</p>
+
+<p>Along with these I also helped my brother build one for himself. This time I did not overspend on <code class="language-plaintext highlighter-rouge">Motherboards</code>.</p>
+
+<h2 id="my-final-pc-build-photos">My final PC Build Photos</h2>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/3080/mybuild/front-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/3080/mybuild/front-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/3080/mybuild/front-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/3080/mybuild/front.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/3080/mybuild/back-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/3080/mybuild/back-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/3080/mybuild/back-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/3080/mybuild/back.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<h2 id="my-brothers-pc-build-photos">My brother’s PC Build Photos</h2>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/3080/brotherbuild/front-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/3080/brotherbuild/front-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/3080/brotherbuild/front-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/3080/brotherbuild/front.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/3080/brotherbuild/back-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/3080/brotherbuild/back-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/3080/brotherbuild/back-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/3080/brotherbuild/back.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<h3 id="i-also-had-a-chance-to-get-hold-of-a-3090-when-i-move-back-to-college-in-2021">I also had a chance to get hold of a 3090 when I move back to College in 2021.</h3>
+<p>Difference between two:</p>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/3090/80v90-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/3090/80v90-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/3090/80v90-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/3090/80v90.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/3090/front-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/3090/front-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/3090/front-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/3090/front.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>Most of my code at IIITH is either on machine with <code class="language-plaintext highlighter-rouge">RTX 3080</code> or machine with <code class="language-plaintext highlighter-rouge">RTX 3090</code>.</p>]]></content><author><name></name></author><category term="rtx3080" /><category term="msi" /><category term="founders" /><category term="nvidia" /><category term="amd" /><category term="5600x" /><category term="rtx3090" /><category term="rtx3060ti" /><summary type="html"><![CDATA[a log about my PC building exp]]></summary></entry><entry><title type="html">PC BUILD:3 DIY Sleeving Cable</title><link href="https://dhawal1939.github.io/blog/2020/Sleeving/" rel="alternate" type="text/html" title="PC BUILD:3 DIY Sleeving Cable" /><published>2020-04-12T16:40:16+00:00</published><updated>2020-04-12T16:40:16+00:00</updated><id>https://dhawal1939.github.io/blog/2020/Sleeving</id><content type="html" xml:base="https://dhawal1939.github.io/blog/2020/Sleeving/"><![CDATA[<p>The blog has no value if you are looking for my academic projects it is my experience abouts PC building. Can be useful to make good decisions about your consumer level PC upgrade choices as long as the blog’s hardware stays relavant.
+And also its from a noob so don’t take it for granted always cross verify.</p>
+<h4 id="general-suggestion-always-check-for-thisin-the-order">General suggestion always Check for this(in the order)</h4>
+<ul>
+    <li>Modularity and PSU rating</li>
+    <li>PCI lane capacities</li>
+    <li>Progamability</li>
+    <li>Connectivity</li>
+</ul>
+
+<h3 id="can-i-make-it-more-aesthetically-pleasing">Can I make it more aesthetically pleasing?</h3>
+
+<p>Well, it was COVID, I needed some hobby apart from the regular research and coursework. So I deciced to make the sleeving of the cables more pleasing. I was motivated by this video and wanted to replicate at-least few of its features (“Aesthetic”).</p>
+
+<p>BEST SLEEVED CABLES VIDEO HERE
+<a href="https://www.youtube.com/watch?v=i-xk86Iebco"><img src="https://img.youtube.com/vi/i-xk86Iebco/0.jpg" alt="BEST SLEEVED CABLES" /></a></p>
+
+<h3 id="requirement">Requirement</h3>
+<p>With some internet search I found I need the following:</p>
+<ul>
+  <li>MDPC-X CTX3 Crimping Tool</li>
+  <li>ATX Crimp Terminal pin</li>
+  <li>ATX Sockets
+    <ul>
+      <li>8 PIN and 4 PIN</li>
+      <li>24 PIN ATX power</li>
+      <li>6 + 2 PIN for PCIE</li>
+    </ul>
+  </li>
+  <li>SATA Crimp Terminals</li>
+  <li>SATA Sockets</li>
+  <li>Wire striper.</li>
+  <li>16 AWG or 18 AWG wire</li>
+  <li>Heat sink</li>
+  <li>Sleeves
+    <h4 id="now-comes-the-problem">Now comes the problem!</h4>
+  </li>
+</ul>
+
+<p>Getting these part in India is a tedious task, as the cost of shipping was higher than the product’s price. Secondly, locally buying them in India had different issue altogether. Mainly because the most online youtubers have a wierd way of naming the items based on their use-case or company name for example, <code class="language-plaintext highlighter-rouge">Velcro Straps</code> are nothing but a <code class="language-plaintext highlighter-rouge">hook-and-loop fastener</code>, which is available in India by a different company, but all youtubers use the company name as product name. The statement is not to discriminate them but to point one small issue which caused additional delay in my case.</p>
+
+<h6 id="ok-what-is-the-problem">OK! What is the problem?</h6>
+<p><code class="language-plaintext highlighter-rouge">MDPCS-X</code> does not ship to <code class="language-plaintext highlighter-rouge">India</code> even if it ships the shipping cost is more than the product cost. So I can not get any of the tool above apart from the <code class="language-plaintext highlighter-rouge">16AWG</code> wire which converts to <code class="language-plaintext highlighter-rouge">cros-sectional</code> format in India and the <code class="language-plaintext highlighter-rouge">Wire Stripper</code></p>
+
+<h5 id="what-to-do-then">What to do then?</h5>
+
+<p>I understood that I need to search for the <code class="language-plaintext highlighter-rouge">data-sheet</code> of the equipment. With vigorous search on <code class="language-plaintext highlighter-rouge">reddit</code> and <code class="language-plaintext highlighter-rouge">linustechtips-forums</code>, The <code class="language-plaintext highlighter-rouge">Requirement</code> list translates to:</p>
+<ul>
+  <li><a href="https://www.aliexpress.com/item/32843027501.html?spm=a2g0o.order_list.order_list_main.55.150c1802gP7TcZ">SN28B Crimp Tool</a></li>
+  <li><a href="https://www.aliexpress.com/item/32718096027.html?spm=a2g0o.order_list.order_list_main.237.150c1802gP7TcZ">5556-RT Terminal</a></li>
+  <li><a href="https://www.aliexpress.com/item/32802993594.html?spm=a2g0o.detail.1000023.9.255066dcWHj1e7">5557-R Sockets</a>
+    <ul>
+      <li>8 PIN and 4 PIN</li>
+      <li>24 PIN ATX power</li>
+      <li>6 + 2 PIN for PCIE</li>
+    </ul>
+  </li>
+  <li><a href="https://www.aliexpress.com/item/32890612517.html?spm=a2g0o.order_list.order_list_main.238.150c1802gP7TcZ">SATA Crimp Terminals</a></li>
+  <li><a href="https://www.aliexpress.com/item/32890612517.html?spm=a2g0o.order_list.order_list_main.238.150c1802gP7TcZ">SATA Sockets</a></li>
+  <li><a href="https://www.aliexpress.com/item/32831133754.html?spm=a2g0o.order_list.order_list_main.227.150c1802gP7TcZ">Wire striper</a></li>
+  <li>1.5 sq-mm wire</li>
+  <li>Heat sink</li>
+  <li><a href="https://www.aliexpress.com/item/506643468.html?spm=a2g0o.order_list.order_list_main.201.150c1802gP7TcZ">Sleeves</a>
+<em>Please Note SN-48B Looks similar to SN-28B but does not WORK!</em></li>
+</ul>
+
+<p>Finally the products are here: (Couple of images from them are from Internet as I could not find them in my gallery (SATA and SN28B))</p>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/raw_material/8-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/raw_material/8-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/raw_material/8-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/raw_material/8.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/raw_material/pcie-4-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/raw_material/pcie-4-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/raw_material/pcie-4-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/raw_material/pcie-4.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/raw_material/pcie-2-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/raw_material/pcie-2-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/raw_material/pcie-2-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/raw_material/pcie-2.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/raw_material/4plus4-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/raw_material/4plus4-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/raw_material/4plus4-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/raw_material/4plus4.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/raw_material/24pin-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/raw_material/24pin-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/raw_material/24pin-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/raw_material/24pin.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/raw_material/sata-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/raw_material/sata-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/raw_material/sata-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/raw_material/sata.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/raw_material/sn28b-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/raw_material/sn28b-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/raw_material/sn28b-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/raw_material/sn28b.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/raw_material/heatsink-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/raw_material/heatsink-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/raw_material/heatsink-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/raw_material/heatsink.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/raw_material/wirestrip-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/raw_material/wirestrip-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/raw_material/wirestrip-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/raw_material/wirestrip.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p><code class="language-plaintext highlighter-rouge">Now we have raw materials what to do about the wiring?.!</code></p>
+
+<p>Well we need the circuit diagrams to create the cables again. Well, we could use the circuit diagram provided by <code class="language-plaintext highlighter-rouge">Cooler Master</code> or respective vendors. But I noticed that websites wont update their Circuits for every <code class="language-plaintext highlighter-rouge">rev</code> (revision) of the SMPS. So I though it is better to check the wiring by myself. I used a <a href="https://www.amazon.in/APTECH-DEALS-AP-IS11A005-Multimeter-Measuring/dp/B07KK5LZBK/ref=sr_1_5?keywords=electrometer&amp;qid=1672650165&amp;s=industrial&amp;sr=1-5">multimeter</a> to check the connectivity.</p>
+
+<p>For CM MWE 650 Gold:
+I got the following circuitry.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/pinout/sata-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/pinout/sata-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/pinout/sata-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/pinout/sata.png" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/pinout/pcie-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/pinout/pcie-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/pinout/pcie-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/pinout/pcie.png" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/pinout/cpu-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/pinout/cpu-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/pinout/cpu-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/pinout/cpu.png" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/pinout/24pin-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/pinout/24pin-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/pinout/24pin-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/pinout/24pin.png" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>Additionally, one can use <code class="language-plaintext highlighter-rouge">hook and fastening</code> straps (Velcro strap) and <code class="language-plaintext highlighter-rouge">cable combs</code> for more pleasing look.</p>
+
+<div class="row mt-7">
+    <div class="col-sm-3 mt-7 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/raw_material/combs-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/raw_material/combs-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/raw_material/combs-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/raw_material/combs.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm-3 mt-7 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/raw_material/velcro-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/raw_material/velcro-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/raw_material/velcro-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/raw_material/velcro.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<h2 id="finally-results-looks-like-this"><code class="language-plaintext highlighter-rouge">Finally results looks like this</code></h2>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/final/back-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/final/back-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/final/back-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/final/back.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/sleeving/final/front-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/sleeving/final/front-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/sleeving/final/front-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/sleeving/final/front.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>]]></content><author><name></name></author><category term="sn28b" /><category term="crimp" /><category term="5556-rt" /><category term="5557-r" /><summary type="html"><![CDATA[a log about my PC building exp]]></summary></entry><entry><title type="html">PC BUILD:2 DIY GTX 1080Ti</title><link href="https://dhawal1939.github.io/blog/2019/1080ti/" rel="alternate" type="text/html" title="PC BUILD:2 DIY GTX 1080Ti" /><published>2019-12-29T16:40:16+00:00</published><updated>2019-12-29T16:40:16+00:00</updated><id>https://dhawal1939.github.io/blog/2019/1080ti</id><content type="html" xml:base="https://dhawal1939.github.io/blog/2019/1080ti/"><![CDATA[<p>The blog has no value if you are looking for my academic projects it is my experience abouts PC building. Can be useful to make good decisions about your consumer level PC upgrade choices as long as the blog’s hardware stays relavant.
+And also its from a noob so don’t take it for granted always cross verify.</p>
+<h4 id="general-suggestion-always-check-for-thisin-the-order">General suggestion always Check for this(in the order)</h4>
+<ul>
+    <li>Modularity and PSU rating</li>
+    <li>PCI lane capacities</li>
+    <li>Progamability</li>
+    <li>Connectivity</li>
+</ul>
+
+<h3 id="correcting-the-mistakes">Correcting the Mistakes</h3>
+
+<p>After realizing the mistake I made, I decided to get a <code class="language-plaintext highlighter-rouge">Nvidia GPU</code>, the only option I had at that point was a budget of <code class="language-plaintext highlighter-rouge">INR 20-24k</code> if I sell of the older <code class="language-plaintext highlighter-rouge">Vega 64</code> at <code class="language-plaintext highlighter-rouge">25k</code>. I was searching through internet and found a random 3rd party used hardward site <code class="language-plaintext highlighter-rouge">techenclave</code> where I found a seller who was selling mined <code class="language-plaintext highlighter-rouge">GTX 1080 Ti</code> for a <code class="language-plaintext highlighter-rouge">INR 30k</code> each.</p>
+
+<p>Well, <code class="language-plaintext highlighter-rouge">1080Ti</code> significantly better than a <code class="language-plaintext highlighter-rouge">RTX 2060</code> which was falling in my budget, perhaps it is on par with <code class="language-plaintext highlighter-rouge">RTX 2080</code> when looked without Raytracing. So, I have decided to check the degradation due to mining.</p>
+
+<p>Well the Myth says! <code class="language-plaintext highlighter-rouge">MINED CARDS LOOSE their LIFE! I don't believe that</code>, As long as the card is in warranty you are safe. The card can endure as much as abuse as any task, be it mining or deep learning. For instance, <code class="language-plaintext highlighter-rouge">render farms</code> and <code class="language-plaintext highlighter-rouge">machine learning servers</code> also run 24x7, you don’t see any significant decrease in performance. Only reason a card performing lower is due to its thermal glue being exhausted which can be replaced with ease.</p>
+
+<h3 id="leap-of-faith-informed-leap"><del>Leap of Faith</del> Informed Leap</h3>
+
+<p>I got a <code class="language-plaintext highlighter-rouge">MSI GTX 1080TI</code> it was used for a couple of months after which crypto fell and the seller was selling a <code class="language-plaintext highlighter-rouge">INR 67k</code> card for a price of <code class="language-plaintext highlighter-rouge">INR 30k</code> and the I was getting a manufacturer warranty of 1.5 years. Quickly, I grabbed one.</p>
+
+<p>Luckly, I did not spend a penny on the swap from <code class="language-plaintext highlighter-rouge">Vega 64</code> to <code class="language-plaintext highlighter-rouge">GTX 1080ti</code>. Two factors added to this, I bought the card at a lower price of <code class="language-plaintext highlighter-rouge">INR 30k</code>(cause of an offer) which is usually <code class="language-plaintext highlighter-rouge">35k-40k</code>. Secondl, when I tried re-selling the card at <code class="language-plaintext highlighter-rouge">30k</code> someone immediately grabbed it with out bargain as the prices rose up again saving me from loss.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/1080ti/1080ti-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/1080ti/1080ti-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/1080ti/1080ti-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/1080ti/1080ti.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/1080ti/box1-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/1080ti/box1-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/1080ti/box1-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/1080ti/box1.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/1080ti/box2-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/1080ti/box2-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/1080ti/box2-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/1080ti/box2.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p><code class="language-plaintext highlighter-rouge">Finally it looked something like this.!</code></p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-7 mt-3">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/1080ti/build-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/1080ti/build-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/1080ti/build-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/1080ti/build.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>Well I tried vertically mounting it, but the problem was the hot air from the GPU was hitting the glass panel of the PC, for which I had to re-orient it and put it in default configuration horizontally.</p>
+
+<h3 id="it-looked-like-this-finally">It looked like this finally</h3>
+
+<p><code class="language-plaintext highlighter-rouge">The covering/sleeving on the cables is a different story all together.</code></p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-7 mt-3">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/1080ti/final-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/1080ti/final-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/1080ti/final-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/1080ti/final.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>]]></content><author><name></name></author><category term="diy" /><category term="nvidia" /><category term="gtx" /><category term="1080ti" /><summary type="html"><![CDATA[a log about my PC building exp]]></summary></entry><entry><title type="html">PC BUILD:1 DIY AMD Vega 64 Build</title><link href="https://dhawal1939.github.io/blog/2019/vega64/" rel="alternate" type="text/html" title="PC BUILD:1 DIY AMD Vega 64 Build" /><published>2019-11-29T16:40:16+00:00</published><updated>2019-11-29T16:40:16+00:00</updated><id>https://dhawal1939.github.io/blog/2019/vega64</id><content type="html" xml:base="https://dhawal1939.github.io/blog/2019/vega64/"><![CDATA[<p>The blog has no value if you are looking for my academic projects it is my experience abouts PC building. Can be useful to make good decisions about your consumer level PC upgrade choices as long as the blog’s hardware stays relavant.
+And also its from a noob so don’t take it for granted always cross verify.</p>
+<h4 id="general-suggestion-always-check-for-thisin-the-order">General suggestion always Check for this(in the order)</h4>
+<ul>
+    <li>Modularity and PSU rating</li>
+    <li>PCI lane capacities</li>
+    <li>Progamability</li>
+    <li>Connectivity</li>
+</ul>
+
+<h3 id="poor-choices">Poor Choices</h3>
+<p>For my first build, I was fixated on buying a <em>FULL AMD</em>, PC as they were much cheaper and after the release of stable drivers from <code class="language-plaintext highlighter-rouge">Vega</code> the gaming performance was on par with <code class="language-plaintext highlighter-rouge">Nvidia's GTX 1080 (non-ti)</code>. They only ball to hit now is a running <code class="language-plaintext highlighter-rouge">torch</code> which is commonly used GPU programing language for the PC. The PC parts arrived around the time of <code class="language-plaintext highlighter-rouge">Nov 2019</code> right after my <code class="language-plaintext highlighter-rouge">Master's</code> first semester ended.</p>
+
+<p>I gave it a go, build the machine with the following components</p>
+<ul>
+  <li>CM MWE 650W fully modular Gold (SMPS)</li>
+  <li>Asus RoG x570 Gaming-E  (Mobo)</li>
+  <li>Ryzen 3600              (CPU)</li>
+  <li>Asus RoG AMD Vega 64    (GPU)</li>
+  <li>A Spectrix G60G Ram with 3600Mhz with CL16 CAS Latency (RAM 8GBx2)</li>
+  <li>Nzxt H510 Case with a USB 3.2 type C at front (Case)</li>
+</ul>
+
+<p>The Mobo comes with a dual ethernet connection of Intel 1GBit and Realtek 2.5Gbit. With Mosfets and VRMs similar in the league of <code class="language-plaintext highlighter-rouge">Asus X470 Crosshair</code> which is the best board every made in the previous generation. Additionally, it was on par in maintaining lower temperatures and handling <code class="language-plaintext highlighter-rouge">PCIE-4.0</code> speeds toe-to-toe with the <code class="language-plaintext highlighter-rouge">x570-Asus Crosshair</code>. One more great thing about this board is, it does not have a single, old gen <code class="language-plaintext highlighter-rouge">USB2.0</code>, all ports are <code class="language-plaintext highlighter-rouge">USB 3+</code>. When coupled with <code class="language-plaintext highlighter-rouge">CL16</code> CAS of RAM it is supposed perform the best.
+Though it did perform pretty well, its not worth the price. As I coupled a <code class="language-plaintext highlighter-rouge">INR 15K CPU</code> with a <code class="language-plaintext highlighter-rouge">INR 27k Mobo</code>, I could not experience full potential of the MOBO. The general rule of thumb is, always get a CPU which is <code class="language-plaintext highlighter-rouge">&gt; or ==</code> the price of the mobo.</p>
+
+<p>My motivation to choose a <code class="language-plaintext highlighter-rouge">x570</code> over a <code class="language-plaintext highlighter-rouge">b450</code> or <code class="language-plaintext highlighter-rouge">x470</code> was to upgrade storage to <code class="language-plaintext highlighter-rouge">PCIE-4.0</code> harnessing more speeds than regular <code class="language-plaintext highlighter-rouge">PCIE-3.0</code>.
+I think it was a steep jump of <code class="language-plaintext highlighter-rouge">1300 MBps to 4000 MBps</code> when moving from <code class="language-plaintext highlighter-rouge">3.0</code> to <code class="language-plaintext highlighter-rouge">4.0</code>.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/vega/cpu-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/vega/cpu-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/vega/cpu-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/vega/cpu.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/vega/vega64-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/vega/vega64-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/vega/vega64-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/vega/vega64.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/vega/ram-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/vega/ram-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/vega/ram-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/vega/ram.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/vega/mobo-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/vega/mobo-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/vega/mobo-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/vega/mobo.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/vega/all-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/vega/all-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/vega/all-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/vega/all.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p><code class="language-plaintext highlighter-rouge">Finally it looked something like this.!</code></p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-7 mt-3">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/pc_build/vega/build-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/pc_build/vega/build-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/pc_build/vega/build-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/pc_build/vega/build.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<h2 id="whats-the-problem-then">What’s the problem then?</h2>
+<p>The first and simple problem I fixed was the issue with <code class="language-plaintext highlighter-rouge">ASUS RoG Vega 64</code> thermal pads which raise the <code class="language-plaintext highlighter-rouge">temperature</code> of one of the VRM.</p>
+
+<p>I fixed it with this <a href="https://www.aliexpress.com/item/32909559765.html?spm=a2g0o.order_list.order_list_main.135.150c1802gP7TcZ">GELID TP-GP02 12W/k</a> thermal pad which provides similar performanace as expensive <code class="language-plaintext highlighter-rouge">Thermal Grizzly pads</code>.</p>
+
+<p>I followed this video to fix the VRM temps. 
+<a href="https://www.youtube.com/watch?v=ay34-gNFW8M"><img src="https://img.youtube.com/vi/ay34-gNFW8M/0.jpg" alt="Vega64 VRM Fix" /></a></p>
+
+<p>After all this investment of time I found that <code class="language-plaintext highlighter-rouge">RoCM</code> required to run <code class="language-plaintext highlighter-rouge">torch</code> does not work.
+Well the  <code class="language-plaintext highlighter-rouge">RoCM</code> states the AMD Vega card support <code class="language-plaintext highlighter-rouge">torch</code>. Well thats not TRUE! I probably might have tried every combination and permutation to make it run but it always fails. Once I was able to get it running but have noticed that <code class="language-plaintext highlighter-rouge">NON GPU</code> variant was running faster than the <code class="language-plaintext highlighter-rouge">GPU</code> one.</p>
+
+<p>I decided to DITCH the <code class="language-plaintext highlighter-rouge">Vega</code> and wanted to opt for a <code class="language-plaintext highlighter-rouge">Nvidia GTX</code></p>]]></content><author><name></name></author><category term="pc-build" /><category term="diy" /><category term="amd" /><category term="vega" /><summary type="html"><![CDATA[a log about my PC building exp]]></summary></entry></feed>
