@@ -4,6 +4,7 @@ permalink: /teaching/
 title: Teaching
 # description: Teaching Assistant [CS7.302 Computer Graphics] 
 nav: true
+nav_order: 6
 ---
 
 I have been a TA for the CS7.302:Computer Graphics Course offered in Spring of 2021.
