@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: Editing Radiance Fields
 description: Re-Coloring and Accurate Segmentation of Radiance Fields 
@@ -35,4 +35,4 @@ It only takes 40 seconds to stylize the content.
 </div>
 ### Project Page: <a href="https://rahul-goel.github.io/isrf/">Link</a>
 
-The method exploits the *Bilateral-filtering* based multi-dimensional search to grow the region of high-confidence to incorporate fine-grain details.  -->
+The method exploits the *Bilateral-filtering* based multi-dimensional search to grow the region of high-confidence to incorporate fine-grain details. 

@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: Rendering using Linearly Transformed Cosines
 description: Is it possible to get Ray Traced Effects in Rasterized Framework or at the least minimal Ray Tracing
@@ -142,4 +142,4 @@ References:
 [Heitz et al. 2016]: Real-Time Polygonal-Light Shading with Linearly Transformed Cosines
 [Heitz et al. 2018 I3D]: Combining Analytic Direct Illumination and Stochastic Shadows
 ```
-{% endraw %} -->
+{% endraw %}

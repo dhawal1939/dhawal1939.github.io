@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: PRT for Arbitrary Geometries
 description: How to store in transfer signals in implicit surfaces
@@ -156,4 +156,4 @@ What we do then?
     <source src="https://raw.githubusercontent.com/dhawal1939/dhawal1939.github.io/master/.github/videos/sh_rendering/learnt_transfer/results_learnt_transfer.webm" type="video/webm">
 </video>
 </center> 
--->
+
